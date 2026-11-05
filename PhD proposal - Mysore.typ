@@ -76,9 +76,13 @@ To execute this agenda, the proposal delineates a rigorous, two-year research ro
 = Project Summary and Methodological Context
 
 == Institutional Milieu and Interdisciplinary Objectives
+
 - *Departmental Alignment:* Grounding the inquiry in the foundational work of the Department of Studies in Psychology at the University of Mysore, which has established international leadership in Indian Psychology, transpersonal psychology, and the empirical operationalization of indigenous personality constructs.
+
 - *Tripartite Synthesis:* Uniting the clinical nosology of the classical Ayurvedic psychiatric tradition (_Bhūtavidyā_ in the _Caraka Saṃhitā_) and Vedantic psychology with René Girard's mimetic anthropological theory and cutting-edge Natural Language Processing (NLP).
+
 - *Cross-Disciplinary Asset:* Leveraging the candidate's primary doctorate in Theoretical Computer Science (TCS) to develop explainable, psychometric AI algorithms capable of analyzing and dissecting textual corpora for latent mimetic pathologies.
+
 - *Accompanying Monograph:* This proposal builds directly upon the historical-structural and psychological investigations detailed in the accompanying monograph, _McThelema: The Submerged Iceberg Below the Cornell 7 Case_ (Reimen, 2026), which provides the macro-historical documentation for the socio-cultural mechanisms formalized herein.
 
 == Primary Research Questions
